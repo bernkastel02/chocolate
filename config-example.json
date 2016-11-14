@@ -1,0 +1,9 @@
+{
+    "Required Inputs": {
+        "token": "Input Token Here",
+        "prefix": "Input Prefix Here"
+    },
+    "General Info": {
+        "ready": "Ready for use!"
+    }
+}
