@@ -2,7 +2,7 @@
 ### An opensource bot made for Discord uses!
 
 ## How to use!
-Edit `config-example.json` with bot token and desired prefix.
+Edit `config-example.json` with bot token and the desired prefix.
 Run the bot running file: 
 Linux: 
 ```sh
