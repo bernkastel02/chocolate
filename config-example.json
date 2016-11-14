@@ -1,7 +1,8 @@
 {
     "Required Inputs": {
         "token": "Input Token Here",
-        "prefix": "Input Prefix Here"
+        "prefix": "Input Prefix Here",
+        "ownerID": "Your ID here"
     },
     "General Info": {
         "ready": "Ready for use!"
